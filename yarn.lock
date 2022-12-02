@@ -375,6 +375,11 @@ chalk@^4.0.0:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
+clevertap-web-sdk@^1.3.4:
+  version "1.3.4"
+  resolved "https://registry.yarnpkg.com/clevertap-web-sdk/-/clevertap-web-sdk-1.3.4.tgz#c6e56acb0570d2cba3a692e649cd1be19f5b804d"
+  integrity sha512-9NaBQ3221ykWwJwfM1ycgiLHKormfTAxqo7C/lfU0s6OTdSg5/clS8siRCQ2AQ1PKDtfO9Y8z/9lxBh+/SQMew==
+
 client-only@0.0.1:
   version "0.0.1"
   resolved "https://registry.yarnpkg.com/client-only/-/client-only-0.0.1.tgz#38bba5d403c41ab150bff64a95c85013cf73bca1"
